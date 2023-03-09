@@ -2,4 +2,4 @@ This is a simple exercise, where the user gives two integer inputs and the progr
 
 Learned how to take input in python
 
-Also, has to do typecasting to make the input integer
+Also, had to do typecasting to make the input integer, rather than declaring the variable (in Java)
