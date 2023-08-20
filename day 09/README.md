@@ -1,4 +1,0 @@
-- Strings in python are enclosed between '' or "" => 'Preet' is same as "Preet"
-- We can have multiline strings inside triple quotes => '''some text here'''
-- String in python is LIKE an array of characters. So we can use index to access parts of string
-- looping through the string
