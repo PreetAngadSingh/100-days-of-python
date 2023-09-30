@@ -1,0 +1,13 @@
+#set is inside curly brackets
+# order is not maintained
+# set dont allow duplicate items
+s = {2,4,2,6}
+print(s)
+
+# by doing this we are creating an empty dictionary not an empty set
+preet = {}
+print(type(preet))
+
+# to make an emoty set we need to right like below
+pr = set()
+print(type(pr)) 
